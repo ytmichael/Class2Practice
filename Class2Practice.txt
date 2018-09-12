@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<table style="color:orange;" >
+
+
+<table style="width:100%">
  <tr>
    <th>Name</th>
    <th>Favorite coding language</th>
