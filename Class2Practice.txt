@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<table style="color:orange;" >
+ <tr>
+   <th>Name</th>
+   <th>Favorite coding language</th>
+   <th>travel time </th>
+   
+  <tr>
+    <td>Yodit</td>
+    <td>HTML</td>
+    <td>15 min</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Java</td>
+    <td>10 min</td>
+  </tr>
+    
+
+</table>
